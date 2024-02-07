@@ -3,9 +3,9 @@ STT를 기본으로 하였으며, Bori API와 연결되어 지능형 대화가 �
 
 시험인증용으로 제작하여 실 활용은 다소 어려울 수 있습니다~~
 
-# Getting Started
+# 시작하기
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+>**참고**: 계속 진행하기 전에 "새 애플리케이션 만들기" 단계까지 React Native - 환경 설정 지침을 완료했는지 확인하세요 .
 
 ## Step 1: Start the Metro Server
 
